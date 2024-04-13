@@ -1,4 +1,4 @@
-
+//check wheteher array is sorted in increasing order or not
 public class sortedornot {
 
 	public static void main(String[] args) {
