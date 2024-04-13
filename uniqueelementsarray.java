@@ -1,4 +1,4 @@
-
+//Check how many unique elements present in array
 public class Uniqueelementsinarray {
 
 	public static void main(String[] args) {
