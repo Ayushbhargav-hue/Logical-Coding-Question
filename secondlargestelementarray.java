@@ -1,4 +1,4 @@
-
+//finding second largest element in array
 public class secondlargest {
 
 	public static void main(String[] args) {
