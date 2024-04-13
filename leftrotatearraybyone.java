@@ -1,5 +1,5 @@
-
-public class secondlargest {
+//Rotate array by one from left
+public class leftrotatearraybyone {
 
 	public static void main(String[] args) {
 		int[] arr={1,2,3,4,5};
