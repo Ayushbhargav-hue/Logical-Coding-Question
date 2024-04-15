@@ -1,5 +1,5 @@
-
-public class secondlargest {
+//find key using linear search in array
+public class linearsearch {
 
 	public static void main(String[] args) {
 		int[] arr={1,2,3,4,5};
